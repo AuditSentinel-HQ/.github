@@ -1,11 +1,19 @@
-# 🛡️ AuditSentinel
+# 🛡️ AuditSentinel HQ
+**Enterprise-grade AI Spend Governance & Shadow AI Detection.**
 
-**The Future of AI Spend Governance.** Automated audit and risk assessment for the modern enterprise.
+AuditSentinel helps CFOs and IT Leaders identify, categorize, and optimize AI expenditures. 
+We bridge the gap between "Cool AI Tools" and "Measurable OpEx Efficiency."
 
 ---
 
-## 📝 Project Charter
-AuditSentinel is designed for CFOs and IT Directors to regain control over "Shadow AI" spend. It transforms messy financial data into a structured governance report, identifying redundant subscriptions, data security risks, and immediate cost-saving opportunities.
+### 🏗️ Engineering Philosophy
+- **Security First:** Zero-retention auditing and field-level encryption.
+- **Data Driven:** Powered by Claude 4.6 for high-fidelity financial reasoning.
+- **Scalable & Portable:** Built on a cloud-agnostic, decoupled architecture.
+
+### 🚀 Key Repositories
+- [audit-sentinel-ui](link-to-ui): Angular 19+ Frontend (Signals & Material 3).
+- [audit-sentinel-api](link-to-api): Node.js/TypeScript Backend (Clean Architecture).
 
 ### 🏗️ The "Clean-Exit" Tech Stack
 This architecture is designed for high portability and logical isolation to facilitate future acquisition or scaling.
@@ -64,3 +72,7 @@ CREATE TABLE audit_results (
 [ ] **Phase 2:** Angular Dashboard with "Waste Tracking" metrics.
 
 [ ] **Phase 3:** Automated Security Whitepaper generation for users.
+
+
+---
+*Property of AuditSentinel HQ. Confidential and Proprietary.*
