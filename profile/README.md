@@ -12,16 +12,16 @@ This architecture is designed for high portability and logical isolation to faci
 
 #### Frontend: Angular 19+ (Material 3 / Signals)
 
-- Hosting: Netlify (CDN-backed, atomic deployments).
+- _Hosting:_ Netlify (CDN-backed, atomic deployments).
 
 #### Backend: Node.js (TypeScript)
 
-- Runtime: Railway or Render (Isolated Web Service).
-- Engine: Claude 4.6 (Sonnet) via Anthropic SDK.
+- _Runtime:_ Railway or Render (Isolated Web Service).
+- _Engine:_ Claude 4.6 (Sonnet) via Anthropic SDK.
 
 #### Database: PostgreSQL (via Supabase)
 
-- Access: Row Level Security (RLS) enabled for multi-tenancy.
+- _Access:_ Row Level Security (RLS) enabled for multi-tenancy.
 
 #### Identity: Supabase Auth or Clerk (SOC2 Compliant).
 
